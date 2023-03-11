@@ -43,7 +43,22 @@ The automata can be configured by changing the parameters in the `config.json` f
 
 ## Introduction:
 
-The purpose of this project is to provide a comprehensive guide on how to use and contribute to the project. This README file is intended to provide a detailed overview of the project, including its goals, features, installation instructions, usage, and contribution guidelines.
+The purpose of this project is to provide a comprehensive tool to experiment with cellular and mobile automata.
+
+## Examples images and videos
+
+![main-2-rule-2409](https://user-images.githubusercontent.com/95016059/224503561-bd821660-4b69-4b32-8c89-072dae1143e3.jpg)
+
+![main-1-rule-90](https://user-images.githubusercontent.com/95016059/224503557-4e00dec4-dc40-411a-ba3d-3dddde352571.jpg)
+
+https://user-images.githubusercontent.com/95016059/224503537-8b4bc288-1ca1-4ed6-ad17-b034696eba6c.mov
+
+https://user-images.githubusercontent.com/95016059/224503543-693709ce-f2c1-4ef1-9ae3-fde112752639.mov
+
+https://user-images.githubusercontent.com/95016059/224503546-58214c20-5693-481d-a5d4-7faa013e6d6d.mov
+
+https://user-images.githubusercontent.com/95016059/224503548-b7c5b6bf-83ad-4ea4-8d8e-0912c13fe8c3.mov
+
 
 ## Goals:
 
@@ -55,11 +70,8 @@ The project includes several features that are designed to enhance its usability
 
 - **User-friendly interface**: The project includes a user-friendly interface that is easy to navigate and understand.
 
-- **Customizable settings**: The project includes customizable settings that allow users to tailor the software to their specific needs.
+- **Customizable settings**: The project includes customizable settings that allow users to tailor the tool to their specific needs.
 
-- **Robust data management**: The project includes robust data management features that allow users to manage and analyze large amounts of data.
-
-- **Advanced reporting**: The project includes advanced reporting features that allow users to generate detailed reports on their data.
 
 ## Contribution Guidelines:
 
