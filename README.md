@@ -62,7 +62,7 @@ https://user-images.githubusercontent.com/95016059/224503548-b7c5b6bf-83ad-4ea4-
 
 ## Goals:
 
-The primary goal of this project is to create a user-friendly and robust software solution that can be used by individuals and organizations for various purposes. The software solution aims to provide users with the ability to accomplish complex tasks with ease and efficiency. Additionally, the project aims to promote collaboration and community engagement by encouraging contributions from individuals and organizations.
+One-dimensional cellular automata are a class of mathematical models that simulate the behavior of a line of cells, where each cell can have one of a finite number of states. At each time step, the state of each cell is updated based on the state of its neighbors according to a set of rules. These rules are often specified using a lookup table, which maps the current state of a cell and its neighbors to a new state. One-dimensional cellular automata have applications in a variety of fields, including physics, computer science, and biology. The goal of this project is to provide an implementation of a one-dimensional cellular automaton in Python that allows users to explore different rules and initial conditions, and to visualize the evolution of the system over time.
 
 ## Features:
 
