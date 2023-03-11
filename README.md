@@ -20,7 +20,7 @@ The automata will start running, and a Pygame window will open displaying the ev
 
 ## Configuration
 
-The automata can be configured by changing the parameters in the `config.json` file. The following parameters can be configured:
+The automata can be configured by changing the parameters in the `src/constants.py` file. The following parameters can be configured:
 
 - `num_iter`: The number of iterations to run the automata for
 - `mov_iter`: The number of iterations to show in the Pygame window at any given time
